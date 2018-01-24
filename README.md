@@ -12,6 +12,9 @@ conda install -c conda-forge keras
 # keras & theano application
 https://keras.io/applications/
 
+# Using Theano backend
+KERAS_BACKEND=theano python mymodel.py
+
 [![Build Status](https://travis-ci.org/luoyetx/mini-caffe.svg?branch=master)](https://travis-ci.org/luoyetx/mini-caffe)
 [![Build status](https://ci.appveyor.com/api/projects/status/x9s2iajv7rtxeo3t/branch/master?svg=true)](https://ci.appveyor.com/project/luoyetx/mini-caffe/branch/master)
 
