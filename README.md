@@ -3,6 +3,10 @@ Mini-Caffe
 https://mxnet.incubator.apache.org/get_started/windows_setup.html
 conda install theano
 
+# docker windows 32bit support
+https://chocolatey.org/packages/docker
+https://medium.com/@chrispatten/installing-and-running-docker-on-32-bit-windows-d18b95ee1fc3
+
 # theno install
 conda install theno
 
